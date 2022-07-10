@@ -1,5 +1,5 @@
 # Supply Chain Analytics 
-This is the summary of course supply chain analytics course that I follow in Datacamp. 
+This is the summary of course supply chain analytics course that I follow in Datacamp. The course is created by Aaren Stubberfield. He is currently a data scientist of Microsoft
 
 ### First of all we should know that supply chain is a term consist of all parties involved, directly or indirectly, in fullling customer’s request, including : 
 - Suppliers
