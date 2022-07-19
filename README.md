@@ -7,4 +7,4 @@ This is the summary of course supply chain analytics course that I follow in Dat
 - Outsourced Logistics Suppliers (i.e. Third Party Suppliers)
 
 ### In supply chain problem, we need to find the most optimal way to achieve an objective based on constraints. 
-In this repository, there will be some Jupyter notebook file that consist the business case of supply chain analytics and how to solve it using **Linear Programming**
+In this repository, there will be some Jupyter notebook file that consist the business case of supply chain analytics and how to solve it using **Linear Programming**. Beside file no. 1, it's still under development. Stay tune!
